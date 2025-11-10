@@ -1,6 +1,6 @@
 Retail Sales Alaytics Data Engineering Project
 
-Overview
+Overview:
     This project demonstrates a data engineering workflow using Python, PySpark, Azure Databricks, and Power BI to ingest, transform, analyze, and visualize retail sales data.
 Project Workflow
 Task 1 – Data Ingestion & Transformation
@@ -23,5 +23,5 @@ Task 3 – Power BI Dashboard
           * Region-wise Performance (Pie Chart)
           * Slicers for Region, Store, and Date Range
           
-Tools & Technologies
+Tools & Technologies:
 Python, PySpark, Azure Databricks, Power BI
